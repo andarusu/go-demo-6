@@ -47,3 +47,7 @@ go-demo-6-db:
   replicaSet:
     enabled: true
 
+go-demo-6-db:
+  replicaSet:
+    enabled: true
+
